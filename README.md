@@ -1,1 +1,3 @@
-# Coffee-Shop-Sales
+# Coffee-Shop-Sales 
+
+## USING EXCEL
